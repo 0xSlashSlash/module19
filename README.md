@@ -5,6 +5,8 @@
 
 3rd Inspect the Transaction
 
+![working ui](https://user-images.githubusercontent.com/101845770/185804868-79fa0c00-fe3f-4fa4-b4ec-356523ea6ac6.png)
+
 ![addy used](https://user-images.githubusercontent.com/101845770/185804812-d7978281-78fe-4ef6-be4c-0b9160181cb4.png)
 
 ![tx history](https://user-images.githubusercontent.com/101845770/185804817-01993b9a-7a05-406c-902a-979faf722510.png)

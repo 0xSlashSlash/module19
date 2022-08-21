@@ -1,6 +1,8 @@
 # module19
 1st Import Ethereum Transaction Functions into the Fintech Finder Application
+
 2nd Sign and Execute a Payment Transaction
+
 3rd Inspect the Transaction
 
 ![addy used](https://user-images.githubusercontent.com/101845770/185804812-d7978281-78fe-4ef6-be4c-0b9160181cb4.png)
